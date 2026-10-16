@@ -1,0 +1,6 @@
+interface:
+  display_name: "MasterGo to HTML"
+  short_description: "将 MasterGo 链接转换为移动端 H5，执行视觉 QA 并交付桌面代码"
+  default_prompt: "使用 $mastergo-to-html 将这个 MasterGo 链接转换为移动端 H5，执行 QA 并交付到桌面同名文件夹："
+policy:
+  allow_implicit_invocation: true
