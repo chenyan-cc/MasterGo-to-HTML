@@ -1,6 +1,6 @@
 # MasterGo-to-HTML
 
-版本：v1.0.0
+目标版本：v1.0.0
 
 第一版
 
@@ -12,8 +12,10 @@
 
 ```text
 $skill-installer
-安装 https://github.com/chenyan-cc/MasterGo-to-HTML/tree/v1.0.0/mastergo-to-html
+安装 https://github.com/chenyan-cc/MasterGo-to-HTML/tree/main/mastergo-to-html
 ```
+
+固定版本安装：发布 v1.0.0 标签后，可将链接中的 main 替换为 v1.0.0；请先确认仓库 Tags/Releases 中存在该版本。
 
 ## 使用
 
